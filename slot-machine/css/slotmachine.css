@@ -4,10 +4,13 @@ body {
 
 h1 {
   color: white;
+  margin-left: 48%;
 }
 
 h2 {
   color: white;
+  margin-left: 45%;
+  font-family: sans-serif;
 }
 
 button {
@@ -15,6 +18,7 @@ button {
   width: 30%;
   float: left;
   border: none;
+  margin-left: 14%;
 }
 
 #maxBet {
@@ -31,4 +35,6 @@ section {
   height: 400px;
   background-repeat: no-repeat;
   background-size: cover;
+  margin-left: 25%;
+  margin-bottom: 20px;
 }
