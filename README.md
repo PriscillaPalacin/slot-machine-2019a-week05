@@ -4,7 +4,7 @@ Like to gamble without having to break the bank? just play my quick, super easy 
 
 **Link to project:**
 
-![alt tag](https://media.giphy.com/media/1Qac1fKZVk9N96IL6b/source.mp4)
+![alt tag](slot.png)
 
 ## How It's Made:
 
